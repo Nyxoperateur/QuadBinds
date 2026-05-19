@@ -1,3 +1,7 @@
+# ⚠️ ATTENTION : NE PAS TÉLÉCHARGER VIA LE BOUTON VERT "DOWNLOAD ZIP" ⚠️
+Le bouton ZIP de GitHub casse l'application. 
+Pour télécharger l'application fonctionnelle, cliquez sur **Releases** à droite de l'écran ou utilisez la commande `git clone`.
+
 # QuadBinds
 
 Free Windows application to make Quad Binds configuration easier in **Fortnite** and remap other keys as well. The [Interception](https://github.com/oblitum/Interception) driver allows bypassing the keyboard → mouse remap that no longer works correctly due to a recent **Fortnite** update.
