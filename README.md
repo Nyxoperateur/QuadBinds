@@ -1,7 +1,7 @@
-# ⚠️ ATTENTION : NE PAS TÉLÉCHARGER VIA LE BOUTON VERT "DOWNLOAD ZIP" ⚠️
+# ⚠️ WARNING: DO NOT DOWNLOAD USING THE GREEN "DOWNLOAD ZIP" BUTTON ⚠️
 
-Le bouton ZIP de GitHub casse l'application.  
-Pour télécharger l'application fonctionnelle, cliquez sur **Releases** à droite de l'écran ou utilisez la commande `git clone`.
+GitHub’s ZIP download breaks the application.  
+To download the working application, click **Releases** on the right side of the page or use the `git clone` command.
 
 # QuadBinds
 
